@@ -14,8 +14,7 @@ check_time = 15
 bots = {
     
     "default": [4488, "/root/teleseed/", "root"],
-    #"MegaPfulBot": [4489, "/home/mega/teleseed/", "mega"],
-    #"Totfarangi": [4490, "/home/totfarangi/teleseed/", "totfarangi"],
+    #"TD": [4489, "/home/robotcli/TD/", "robotcli"],
 	}
 
 	
